@@ -58,6 +58,7 @@ def main():
     start = '1'
     shortest_distances, previous_nodes = djikstras(graph, start)
     print(f'Shortest path from {start} to...')
+    print(f'previous nodes: {previous_nodes}')
     for target_node in previous_nodes.keys():
         if target_node == start:
             continue
