@@ -2,7 +2,7 @@ repo_name: MattBoraske/CSC560-Algorithms
 report_id: 387fc0cc21ccfc19a3fb605d75e7ed2e
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-19T15:52:06+00:00'
+timestamp: '2024-01-05T08:20:05+00:00'
 requested_by: MattBoraske
 provider: github
 branch: master
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/MattBoraske/CSC560-Algorithms
   detection_source: Repo Metadata
 - name: pgvector
   description: Open-source vector similarity search for Postgres
@@ -26,6 +27,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/MattBoraske/CSC560-Algorithms/blob/master/algorithms.txt
   detection_source: algorithms.txt
   last_updated_by: Matt Boraske
   last_updated_on: 2023-03-27 01:34:10.000000000 Z
@@ -37,6 +39,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/MattBoraske/CSC560-Algorithms
   detection_source: Repo Metadata
 - name: LangChain
   description: Build AI apps with LLMs through composability
@@ -46,6 +49,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/MattBoraske/CSC560-Algorithms/blob/master/algorithms.txt
   detection_source: algorithms.txt
   last_updated_by: Matt Boraske
   last_updated_on: 2023-03-27 01:34:10.000000000 Z
