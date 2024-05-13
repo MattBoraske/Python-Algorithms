@@ -1,4 +1,4 @@
-```python
+```html
 ALGORITHM          MST   SSSP   APSP   Greedy   DFS   BFS   DP  Union-Find   PQueue   SCC  Runtime
 Djikstra's                X             X              X                      X             O((V+E)log(V))
 Bellman-Ford              X                            X                                    O(VE)
